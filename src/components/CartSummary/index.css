@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.summary {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+.order {
+  color: #616e7c;
+  font-size: 25px;
+}
+.price {
+  color: #000;
+  font-size: 25px;
+}
+.length {
+  color: #616e7c;
+  margin-top: -10px;
+}
+.checkout {
+  border: none;
+  outline: none;
+  background-color: #0b69ff;
+  height: 40px;
+  color: #fff;
+}
